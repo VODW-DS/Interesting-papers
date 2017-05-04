@@ -14,7 +14,7 @@ A place to share interesting papers books/articles/blogs etc.
 * [F1: A Distributed SQL Database That Scales](https://static.googleusercontent.com/media/research.google.com/nl//pubs/archive/41344.pdf) Jeff Shute, Radek Vingralek, Bart Samwel, Ben Handy, Chad Whipkey, Eric Rollins, Mircea Oancea, Kyle Littleﬁeld, David Menestrina, Stephan Ellner, John Cieslewicz, Ian Rae, Traian Stancescu, Himani Apte (2013)
 
 ### Blogs
-* [Vincent Warmerdam](https://koaning.io)
-* [David Robinson](https://varianceexplained.org)
-* [Julia Silge](https://jaliasilge.com)
-* [Todd W. Schneider](https://toddwschneider.com)
+* [Vincent Warmerdam](http://koaning.io)
+* [David Robinson](http://varianceexplained.org)
+* [Julia Silge](http://jaliasilge.com)
+* [Todd W. Schneider](http://toddwschneider.com)
