@@ -4,7 +4,7 @@ A place to share interesting papers books/articles/blogs etc.
 ## Contents
 * [Books](#books)
 * [Articles](#articles)
-* [Blogs](#blogs
+* [Blogs](#blogs)
 
 ### Books
 * [The Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf) Trevor Hastie, Robert Tibshirani, Jerome Friedman (2009)
