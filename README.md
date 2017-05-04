@@ -1,5 +1,5 @@
 # Interesting-papers
-A place to share interesting papers books/articles/blogs etc.
+A place to share interesting papers books/papers/articles/blogs etc.
 
 ## Contents
 * [Books](#books)
