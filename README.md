@@ -12,7 +12,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
 * [Forecasting: principles and practice](https://www.otexts.org/fpp), Rob J. Hyndman, George Athanasopoulos, (2012)  
 
 ### Articles
-* [F1: A Distributed SQL Database That Scales](https://static.googleusercontent.com/media/research.google.com/nl//pubs/archive/41344.pdf) Jeff Shute, Radek Vingralek, Bart Samwel, Ben Handy, Chad Whipkey, Eric Rollins, Mircea Oancea, Kyle Littleﬁeld, David Menestrina, Stephan Ellner, John Cieslewicz, Ian Rae, Traian Stancescu, Himani Apte, (2013)
+* [F1: A Distributed SQL Database That Scales](https://static.googleusercontent.com/media/research.google.com/nl//pubs/archive/41344.pdf) Jeff Shute, Radek Vingralek, Bart Samwel, Ben Handy, et al., (2013)
 
 ### Blogs
 * [R-bloggers](https://r-bloggers.com)
