@@ -16,5 +16,5 @@ A place to share interesting papers books/articles/blogs etc.
 ### Blogs
 * [Vincent Warmerdam](http://koaning.io)
 * [David Robinson](http://varianceexplained.org)
-* [Julia Silge](http://jaliasilge.com)
+* [Julia Silge](http://jaliasilge.com/blog/This-Is-The-Place/)
 * [Todd W. Schneider](http://toddwschneider.com)
