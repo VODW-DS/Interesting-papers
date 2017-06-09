@@ -28,3 +28,5 @@ A place to share interesting papers books/papers/articles/blogs etc.
 * [Edward Tufte](https://www.edwardtufte.com/tufte/)
 * [Hadoop ecosystem](https://hadoopecosystemtable.github.io/)
 * [Confluent blog (Streaming analystics, Kafka)](https://www.confluent.io/blog/)
+  * [Putting Apache Kafka To Use: A Practical Guide to Building a Streaming Platform (Part 1)](https://www.confluent.io/blog/stream-data-platform-1/)
+  * [Putting Apache Kafka To Use: A Practical Guide to Building a Streaming Platform (Part 2)](https://www.confluent.io/blog/stream-data-platform-2/)
