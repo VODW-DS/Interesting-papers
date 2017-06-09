@@ -27,3 +27,4 @@ A place to share interesting papers books/papers/articles/blogs etc.
 * [Todd W. Schneider](http://toddwschneider.com)
 * [Edward Tufte](https://www.edwardtufte.com/tufte/)
 * [Hadoop ecosystem](https://hadoopecosystemtable.github.io/)
+* [Confluent blog (Streaming analystics, Kafka)](https://www.confluent.io/blog/)
