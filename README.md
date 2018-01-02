@@ -23,6 +23,8 @@ A place to share interesting papers books/papers/articles/blogs etc.
 * **R and Python**
   * [R-bloggers](https://r-bloggers.com)
   * [NumFOCUS](https://www.numfocus.org)
+* **Git**
+  * [Simple Git guide, Roger Dulder](http://rogerdudler.github.io/git-guide/)
 * **Influencial and intresting people**
   * [Vincent Warmerdam](http://koaning.io)
   * [David Robinson](http://varianceexplained.org)
