@@ -9,6 +9,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
 
 ### Slides
 * [AWS Transformation Day slides](https://www.slideshare.net/AmazonWebServices/tag/benelux-transformation-day-2017)
+* [AWSome day, Utrecht november 2017](https://www.slideshare.net/secret/3AyYGeM9cMeT26)
 
 ### Books
 * [The Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf), Trevor Hastie, Robert Tibshirani, Jerome Friedman, (2009)
