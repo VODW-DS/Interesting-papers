@@ -11,7 +11,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
 * [Modelling](#modelling)
   * [General statistics](#general-statistics)
   * [Algorithms](#algorithms)
-  * [forecasting](#forecasting)
+  * [Forecasting](#forecasting)
 * [Presentation](#presentation)
 * [Reporting](#reporting)
 * [Version control](#version-control)
