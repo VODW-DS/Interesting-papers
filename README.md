@@ -5,11 +5,11 @@ A place to share interesting papers books/papers/articles/blogs etc.
 
 * [Data](#data)
   * [Cloud computing](#cloud)
-  * [Data pipelines](#data pipelines)
+  * [Data pipelines](#data-pipelines)
 * [Modelling](#modelling)
 * [Presentation](#presentation)
 * [Reporting](#reporting)
-* [Version control](#version control)
+* [Version control](#version-control)
 * [Data Science and Engineering Blogs](#blogs)
 
 
@@ -21,7 +21,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
 * [AWS Transformation Day slides (slides)](https://www.slideshare.net/AmazonWebServices/tag/benelux-transformation-day-2017)
 * [AWSome day, Utrecht november 2017 (slides)](https://www.slideshare.net/secret/3AyYGeM9cMeT26)
 
-#### Data pipelines
+#### Data-pipelines
 
 ##### Airflow
 
@@ -50,13 +50,13 @@ A place to share interesting papers books/papers/articles/blogs etc.
 * [Forecasting: principles and practice (book)](https://www.otexts.org/fpp), Rob J. Hyndman, George Athanasopoulos, (2012)  
 
 
-## Version control
+## Version-control
 
 #### Git
 * [Simple Git guide, Roger Dulder (article)](http://rogerdudler.github.io/git-guide/)
 
 
-### Blogs
+## Blogs
 * **R and Python**
   * [R-bloggers](https://r-bloggers.com)
   * [NumFOCUS](https://www.numfocus.org)
