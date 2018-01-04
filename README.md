@@ -56,7 +56,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
 * [Forecasting: principles and practice (book)](https://www.otexts.org/fpp), Rob J. Hyndman, George Athanasopoulos, (2012)  
 
 
-## Presentaion
+## Presentation
 
 
 ## Reporting
