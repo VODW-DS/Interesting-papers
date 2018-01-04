@@ -72,7 +72,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
 * **R and Python**
   * [R-bloggers](https://r-bloggers.com)
   * [NumFOCUS](https://www.numfocus.org)
-* **Influencial and intresting people**
+* **Influencial and interesting people**
   * [Vincent Warmerdam](http://koaning.io)
   * [David Robinson](http://varianceexplained.org)
   * [Julia Silge](http://juliasilge.com)
