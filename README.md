@@ -5,12 +5,17 @@ A place to share interesting papers books/papers/articles/blogs etc.
 
 * [Data](#data)
   * [Cloud computing](#cloud)
-  * [Data pipelines](#datapipelines)
-  * [Data storage](#datastorage)
+  * [Data pipelines](#data-pipelines)
+  * [Data storage](#data-storage)
+  * [Horizontal data processing](Horizontal-data-processing)
 * [Modelling](#modelling)
+  * [General statistics](#general-statistics)
+  * [Algorithms](#algorithms)
+  * [forecasting](#forecasting)
 * [Presentation](#presentation)
 * [Reporting](#reporting)
 * [Version control](#version-control)
+  * [Git](#git)
 * [Data Science and Engineering Blogs](#blogs)
 
 
@@ -29,10 +34,10 @@ A place to share interesting papers books/papers/articles/blogs etc.
 ##### Luigi
 * [Presentation Spotify](https://www.slideshare.net/erikbern/luigi-presentation-nyc-data-science)
 
-#### Data storage
+#### Data-storage
 * [F1: A Distributed SQL Database That Scales (article)](https://static.googleusercontent.com/media/research.google.com/nl//pubs/archive/41344.pdf) Jeff Shute, Radek Vingralek, Bart Samwel, Ben Handy, et al., (2013)
 
-#### Horizontal data-processing
+#### Horizontal-data-processing
 * [Hadoop ecosystem](https://hadoopecosystemtable.github.io/)
 * [Kafka (Confluent blog)](https://www.confluent.io/blog/)
     * [Putting Apache Kafka To Use: A Practical Guide to Building a Streaming Platform (Part 1)](https://www.confluent.io/blog/stream-data-platform-1/)
@@ -49,6 +54,12 @@ A place to share interesting papers books/papers/articles/blogs etc.
 
 #### Forecasting
 * [Forecasting: principles and practice (book)](https://www.otexts.org/fpp), Rob J. Hyndman, George Athanasopoulos, (2012)  
+
+
+## Presentaion
+
+
+## Reporting
 
 
 ## Version-control
