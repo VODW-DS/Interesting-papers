@@ -5,7 +5,8 @@ A place to share interesting papers books/papers/articles/blogs etc.
 
 * [Data](#data)
   * [Cloud computing](#cloud)
-  * [Data pipelines](#data-pipelines)
+  * [Data pipelines](#datapipelines)
+  * [Data storage](#datastorage)
 * [Modelling](#modelling)
 * [Presentation](#presentation)
 * [Reporting](#reporting)
@@ -31,7 +32,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
 #### Data storage
 * [F1: A Distributed SQL Database That Scales (article)](https://static.googleusercontent.com/media/research.google.com/nl//pubs/archive/41344.pdf) Jeff Shute, Radek Vingralek, Bart Samwel, Ben Handy, et al., (2013)
 
-#### Horizontal data processing
+#### Horizontal data-processing
 * [Hadoop ecosystem](https://hadoopecosystemtable.github.io/)
 * [Kafka (Confluent blog)](https://www.confluent.io/blog/)
     * [Putting Apache Kafka To Use: A Practical Guide to Building a Streaming Platform (Part 1)](https://www.confluent.io/blog/stream-data-platform-1/)
@@ -40,7 +41,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
 
 ## Modelling
 
-#### General statistics
+#### General-statistics
 * [The Elements of Statistical Learning (book)](https://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf), Trevor Hastie, Robert Tibshirani, Jerome Friedman, (2009)
 
 #### Algorithms
