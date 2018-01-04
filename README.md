@@ -4,7 +4,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
 ## Contents
 
 * [Data](#data)
-  * [Cloud computing](#cloud computing)
+  * [Cloud computing](#cloud)
   * [Data pipelines](#data pipelines)
 * [Modelling](#modelling)
 * [Presentation](#presentation)
@@ -13,7 +13,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
 * [Data Science and Engineering Blogs](#blogs)
 
 
-### Data
+## Data
 
 #### Cloud
 
@@ -38,7 +38,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
     * [Putting Apache Kafka To Use: A Practical Guide to Building a Streaming Platform (Part 2)](https://www.confluent.io/blog/stream-data-platform-2/)
 
 
-### Modelling
+## Modelling
 
 #### General statistics
 * [The Elements of Statistical Learning (book)](https://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf), Trevor Hastie, Robert Tibshirani, Jerome Friedman, (2009)
@@ -50,7 +50,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
 * [Forecasting: principles and practice (book)](https://www.otexts.org/fpp), Rob J. Hyndman, George Athanasopoulos, (2012)  
 
 
-### Version control
+## Version control
 
 #### Git
 * [Simple Git guide, Roger Dulder (article)](http://rogerdudler.github.io/git-guide/)
