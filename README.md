@@ -4,7 +4,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
 ## Contents
 
 * [Data](#data)
-  * [Cloud computing](#cloud)
+  * [Cloud](#cloud)
   * [Data pipelines](#data-pipelines)
   * [Data storage](#data-storage)
   * [Horizontal data processing](Horizontal-data-processing)
