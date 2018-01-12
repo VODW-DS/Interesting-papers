@@ -48,7 +48,7 @@ A place to share interesting papers books/papers/articles/blogs etc.
 ## Modelling
 
 #### General-statistics
-* [The Elements of Statistical Learning (book)](https://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf), Trevor Hastie, Robert Tibshirani, Jerome Friedman, (2009)
+* [The Elements of Statistical Learning (book)](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf), Trevor Hastie, Robert Tibshirani, Jerome Friedman, (2009)
 
 #### Algorithms
 * [Mining of Massive Datasets (book)](http://infolab.stanford.edu/~ullman/mmds/book.pdf), Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman, (2014)
